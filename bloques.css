@@ -9,9 +9,10 @@ h1{
     font-family: 'Balsamiq Sans', cursive;
 }
 
-image.cat{
+img.cat{
     height: 200px;
-    }
+    width: 200px;
+}
 .cat{
     padding: auto;
     height: 250px;
